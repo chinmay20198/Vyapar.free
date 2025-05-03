@@ -1,1 +1,47 @@
-# Vyapar.free
+# Vyapar Free - Billing & Inventory Software
+
+This is a free, fully client-side billing and inventory web application inspired by Vyapar.com, designed to run offline and online on modern browsers on Windows and mobile devices. It supports English and Hindi languages and stores all data locally.
+
+## Features
+
+- Create and manage invoices with GST tax (CGST, SGST)
+- Manage products with code, name, price, and stock
+- Manage customers with phone and GST number
+- Dashboard summary and sales reports
+- Language toggle between English and Hindi
+- Responsive design for mobile and desktop browsers
+- No server or internet required for use (all data stored in browser localStorage)
+
+## Usage
+
+1. Download or clone this repository.
+2. Open `index.html` in a modern web browser (Chrome, Edge, Firefox, Safari) on Windows or mobile.
+3. Use the navigation buttons to add products, customers, and create invoices.
+4. Toggle language by clicking the top-right language button.
+5. Data is saved in your browser's localStorage, so it persists between sessions.
+
+## Deployment
+
+This file can be hosted on any static web hosting service such as:
+
+- GitHub Pages
+- Netlify
+- Vercel
+- Firebase Hosting
+
+### Deploy on GitHub Pages
+
+1. Create a new public repository on GitHub.
+2. Upload the `index.html` file.
+3. Go to the repository "Settings" > "Pages."
+4. Set source branch to your main branch and folder to root (/).
+5. Save and wait for the provided link to become active.
+6. Open the link in a browser to use your online app.
+
+## License
+
+This software is provided completely free for personal or commercial use without any restrictions.
+
+---
+
+Created by BLACKBOXAI
